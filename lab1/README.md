@@ -9,7 +9,7 @@
 
 ⚙️ Как запустить проект
 Клонировать репозиторий:
-git clone <ссылка на репозиторий>
+git clone [<ссылка на репозиторий>](https://github.com/vivivat/web/lab1)
 cd nginx-lab
 Запустить контейнеры:
 
@@ -20,6 +20,9 @@ docker-compose.yml — описание сервиса Nginx
 
 code/index.html — главная HTML-страница
 
+code/abiut.html — dnjhfz HTML-страница (4 step)
+
 screenshots/ — все скриншоты
 
 ✅ Результат Сервер в Docker успешно запущен, Nginx отдаёт мою HTML-страницу.
+
